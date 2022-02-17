@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabs024
+- 👋 Hi, I’m @Gabs
 - 👀 I’m interested in Systems Analyst and Development, Python, Data Science, Ai, Analytics, App Development.
 - 🌱 I’m currently learning Python language, Systems Analyst and Development College's Course.
 - 💞️ I’m looking to collaborate on Anywhere.
